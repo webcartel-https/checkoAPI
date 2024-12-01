@@ -1,0 +1,6 @@
+__title__ = "checkoAPI"
+__description__ = ""
+__url__ = "https://github.com/webcartel-https/checkoAPI"
+__version__ = "0.0.01"
+__author__ = "web-cartel"
+__author_email__ = "prvtangl@gmail.com"
